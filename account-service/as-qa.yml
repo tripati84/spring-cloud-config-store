@@ -1,0 +1,10 @@
+springboot:
+  application:
+    name: Account-Service
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost/test
+
+spring.boot: this is account service config for QA Evn  
+server:
+  port: 9000

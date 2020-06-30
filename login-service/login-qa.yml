@@ -1,0 +1,10 @@
+springboot:
+  application:
+    name: Login-Service
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:oracle://localhost/test
+
+spring.boot: this is Login Service config for QA Enviroment
+server:
+  port: 9010

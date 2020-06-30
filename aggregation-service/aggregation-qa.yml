@@ -1,0 +1,11 @@
+springboot:
+  application:
+    name: Aggregation-Service
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:oracle://localhost/test
+
+spring.boot: this is Aggregation service config for QA Env
+server:
+  port: 9010
+
