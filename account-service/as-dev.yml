@@ -7,4 +7,4 @@ springboot:
 
 spring.boot: this is account service config for Development Environment
 server:
-  port: 9000
+  port: 9001
