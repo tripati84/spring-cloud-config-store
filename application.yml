@@ -24,4 +24,4 @@ wordpress:
 
 spring:
    application:
-      name: demoservice
+      name: as
